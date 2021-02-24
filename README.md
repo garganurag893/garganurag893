@@ -2,7 +2,7 @@
 
 I am Anurag. Thanks for dropping by! I like to Code and build Products for Designers & Developers. I am a Full Stack and Mobile App Developer. I'm in love with React Native and React.
 
-- 🔭  I’m currently working on [apibeats](https://apibeats.com) & [BuilderX](https://BuilderX.io)
+- 🔭  I’m currently working on React Native, React, Node.js & GraphQL.
 - 🌱  I’m currently learning about Product building & new package idea for React Navtive.
 - 👯  I’m looking to collaborate on JavaScript, React Native & Tech Entrepreneurship
 - 🤔  I’m looking for help with Product Building, Graphic Design (crazy landing pages)
